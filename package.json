@@ -1,0 +1,17 @@
+{
+  "name": "full_stack_project",
+  "version": "1.0.0",
+  "description": "Employee Mangement",
+  "main": "app.js",
+  "scripts": {
+    "proj": "nodemon app.js -e html,css,js"
+  },
+  "author": "TechHouse",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap-icons": "^1.11.3",
+    "express": "^4.21.2",
+    "full_stack_project": "file:",
+    "mongoose": "^8.9.3"
+  }
+}
